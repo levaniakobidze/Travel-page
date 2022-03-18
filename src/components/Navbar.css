@@ -1,0 +1,83 @@
+.navbar{
+    background-color: #ffffff;
+    border-radius: 10px;
+    z-index: 10;
+    position: absolute;
+    margin: auto;
+   margin-top: 38px !important;
+   padding: 20px;
+   top: 0;
+left: 0;
+right: 0;
+margin: auto;
+}
+.navbar-content {
+    padding-left:26px;
+    padding-right:26px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative; 
+
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo h1 {
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+.logo p {
+    font-size: 24px;
+    font-weight: 0;
+    margin-left: 5px;
+    letter-spacing: 2px;
+}
+.navbar-menu {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.navbar-menu li {
+    list-style: none;
+   
+
+}
+.navbar-menu a:hover{
+    border-bottom: 4px #D31F49 solid ;
+    color: #D31F49;
+    transition: all 0.3s;
+}
+.navbar-menu a {
+    padding: 25px;
+    text-decoration: none;
+    font-size: 14px;
+    color:#000;
+    
+}
+.navbar-button-cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.navbar-button {
+   
+    width: 158px;
+    height: 80px;
+    cursor: pointer;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    border:7px solid #ffffff !important;
+    
+}
