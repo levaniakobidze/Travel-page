@@ -1,0 +1,30 @@
+
+.services-card__title {
+    display:flex;
+    justify-content: left;
+}
+.services-card__title h3 {
+    font-size: 32px;
+    font-weight: 100;
+}
+
+.services-card__underline {
+    width: 50px;
+    height: 5px;
+    background-color: #e91647;
+    margin:20px 0;
+ 
+}
+
+.services-card__text {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+    width: 341.83px;
+}
+
+.services-card__text p {
+    font-size: 16px;
+}
+
