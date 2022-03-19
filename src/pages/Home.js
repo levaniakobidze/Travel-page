@@ -12,8 +12,8 @@ function Home() {
                
               <h2>EXCELLENT TOURS AT EXCELLENT PRICES!
                 </h2>
-                <h1>CONVENIENT SEARCH
-                </h1>
+                <h5>CONVENIENT SEARCH
+                </h5>
                 
                 <Button className='home-button'>MORE INFO</Button>
             </div>

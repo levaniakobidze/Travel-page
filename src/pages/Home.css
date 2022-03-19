@@ -1,7 +1,7 @@
 
 .home-img {
     width: 100%;
-    height: 100vh;
+    height: 120vh;
     position: relative;
     background-image: linear-gradient(rgba(0,0,0,0.25),rgba(0,0,0,0.15)),url('../images/background-image.svg');
     background-size: cover;
@@ -14,8 +14,9 @@
     position: absolute;
     top: 60%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%,-55%);
     width: 100%;
+    
 }
 .home-wrapper{
     display: flex;
@@ -30,12 +31,12 @@
     
 
 }
-.home-wrapper h1{
+.home-wrapper h5{
     font-family: 'Heebo', sans-serif;
     line-height: 170px;
     font-size: 100px;
     color: rgb(255, 255, 255);
-    font-weight: 300;
+    font-weight: 100;
 }
 .home-button {
     width:184px;
