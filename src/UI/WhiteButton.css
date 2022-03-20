@@ -6,3 +6,8 @@
     color: #D31F49;
     cursor: pointer;
 }
+.white-button:hover {
+    background-color: #D31F49;
+    color: #ffff;
+    transition: all 0.3s;
+}

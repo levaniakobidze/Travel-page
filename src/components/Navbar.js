@@ -14,7 +14,7 @@ function Navbar() {
               
                     <ul className="navbar-menu">
                         <li><a href="#">HOME</a></li>
-                        <li><a href="#">ABOUT</a></li>
+                        <li><a href="#about">ABOUT</a></li>
                         <li><a href="#">SERVICES</a></li>
                         <li><a href="#">TRIP</a></li>
                         <li><a href="#">REVIEWS</a></li>

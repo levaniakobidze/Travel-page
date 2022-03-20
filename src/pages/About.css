@@ -6,9 +6,7 @@
     background: #F7F7F7;
    
 }
-.about-cont {
-    
-}
+
 .about-main-cont {
     display: flex;
     
@@ -17,14 +15,7 @@
     width: 184px;
     height: 60px;
 }
-.about-button:hover {
-     background-color: #D31F49;
-    color: #ffff;
-    transition: all 0.3s;
-}
-.about-img-cont {
-   
-}
+
 
 .about-img2{
   margin-top: 60px;
