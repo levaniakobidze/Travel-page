@@ -6,6 +6,7 @@ import Home from './pages/Home';
 import Subscribe from './components/Subscribe';
 import Services from './pages/Services';
 import Trip from './components/Trip';
+import Reviws from './pages/Reviws';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
      <Subscribe />
      <Services />
      <Trip />
+     <Reviws />
     </div>
   );
 }

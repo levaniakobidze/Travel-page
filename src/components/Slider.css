@@ -1,0 +1,47 @@
+.slider {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 62px 0 0 0 ;
+}
+.arrow {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+.slider-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 796px;
+
+}
+.review-text__text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.review-text__title {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.review-text__title h4 {
+    font-size: 40px;
+    color: #FFE200;
+    font-style: italic;
+}
+.review-text__text p {
+    font-size:16px;
+    color: #ffff;
+
+}
+.review-user {
+    font-size: 20px;
+    color: #fff;
+    line-height: 100px;
+
+}
