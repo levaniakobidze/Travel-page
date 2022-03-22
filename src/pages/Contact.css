@@ -25,7 +25,7 @@
 .contact-text-cont h2 {
   font-size: 70px;
   color: #ffff;
-  font-weight: 100;
+  font-weight: 300;
 }
 .contact-text-cont P {
     font-size: 22px;
@@ -50,7 +50,7 @@
   color: #a20000;
   font-size: 16px;
   box-shadow: 0 3px 0 1px #a20000;
-  margin: 20px 0 ;
+  margin: 50px 0 ;
 }
 .contact-button:hover {
     background-color: #ee2655;
