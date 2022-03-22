@@ -1,5 +1,5 @@
 import React from 'react'
-import './ServicesCard.css'
+import './TextCard.css'
 
 function ServicesCard(props) {
   return (

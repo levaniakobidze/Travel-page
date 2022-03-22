@@ -7,6 +7,7 @@ import Subscribe from './components/Subscribe';
 import Services from './pages/Services';
 import Trip from './components/Trip';
 import Reviws from './pages/Reviws';
+import Blog from './pages/Blog';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
      <Services />
      <Trip />
      <Reviws />
+     <Blog />
     </div>
   );
 }

@@ -1,3 +1,7 @@
+body {
+    font-family: 'Heebo';
+}
+
 .trip {
     background-color: #fff;
     background-image: url('../images/map.png');
@@ -26,6 +30,7 @@
     font-size: 70px;
     font-weight: 100;
     color:#000;
+    padding: 20px 0;
 }
 .trip-icons {
     display: flex;

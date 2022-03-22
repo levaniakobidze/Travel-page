@@ -2,9 +2,10 @@
     border:2px solid #D31F49;
     outline: 0;
     border-radius: 10px;
-    background-color:#ffff;
+    background-color: #F7F7F7;
     color: #D31F49;
     cursor: pointer;
+    font-size: 16px;
 }
 .white-button:hover {
     background-color: #D31F49;

@@ -1,4 +1,6 @@
-
+body {
+    font-family: 'Heebo';
+}
 .services-card__title {
     display:flex;
     justify-content: left;

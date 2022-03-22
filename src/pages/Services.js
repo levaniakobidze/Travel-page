@@ -1,6 +1,6 @@
 import React from "react";
 import Container from '../UI/Container'
-import ServicesCard from '../components/ServicesCard'
+import TextCard from '../components/TextCard'
 import "./Services.css";
 function Services() {
   return (
@@ -16,21 +16,21 @@ function Services() {
           </div>
           </div>
           <div className="services-card-cont">
-          <ServicesCard
+          <TextCard
               title={"Hotel Bookings"}
               text={
                 "Lorem ipsum dolor sit amet, id altera persequeris vim, mea an appareat prodesset. Cu mea error eripuit delicata. Nec soluta aliquid similique eu."
               }
             />
 
-<ServicesCard
+<TextCard
               title={"Hotel Bookings"}
               text={
                 "Lorem ipsum dolor sit amet, id altera persequeris vim, mea an appareat prodesset. Cu mea error eripuit delicata. Nec soluta aliquid similique eu."
               }
             />
 
-<ServicesCard
+<TextCard
               title={"Hotel Bookings"}
               text={
                 "Lorem ipsum dolor sit amet, id altera persequeris vim, mea an appareat prodesset. Cu mea error eripuit delicata. Nec soluta aliquid similique eu."

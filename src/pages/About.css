@@ -1,3 +1,6 @@
+body{
+    font-family: 'Heebo';
+}
 .about {
     display: flex;
     justify-content: center;

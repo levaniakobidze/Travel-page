@@ -2,8 +2,8 @@ import React from 'react'
 import Container from '../UI/Container'
 import './Trip.css'
 import WhiteButton from '../UI/WhiteButton'
-import TripCard from './TripCard'
-import ServicesCard from './ServicesCard'
+import TripCard from './Card'
+import ServicesCard from './TextCard'
 
 function Trip() {
   return (
