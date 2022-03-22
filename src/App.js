@@ -8,6 +8,7 @@ import Services from './pages/Services';
 import Trip from './components/Trip';
 import Reviws from './pages/Reviws';
 import Blog from './pages/Blog';
+import Contact from './pages/Contact';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
      <Trip />
      <Reviws />
      <Blog />
+     <Contact />  
     </div>
   );
 }
